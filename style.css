@@ -1,0 +1,55 @@
+main{
+    min-height: 90vh;
+}
+
+#contenedor-cards{
+    min-height: 50vh;
+}
+
+footer{
+    min-height: 5vh;
+}
+
+.dropdown-item{
+    color:rgb(255, 217, 0);
+}
+
+#navbarSupportedContent{
+    position: absolute;
+    left: 1050px;
+}
+
+h2{
+    color:rgb(255, 252, 58);
+    text-align: center;
+}
+
+.card img{
+    width: 240px;
+    height: 300px;
+}
+
+.container-icono{
+    color: rgb(255, 252, 58);
+    position: absolute;
+    left:585px;
+    top: 78px;    
+}
+
+.card-body{
+    
+    text-align: left;
+}
+
+#carouselExampleSlidesOnly h5{
+    color:rgb(255, 252, 58);
+}
+
+.carousel-item img{
+    width: 600px;
+    height: 500px;
+}
+.card-header h5{
+    color:rgb(255, 252, 58);
+}
+
