@@ -53,3 +53,20 @@ h2{
     color:rgb(255, 252, 58);
 }
 
+.card-canciones{
+    color: rgb(255, 252, 58);
+    position: absolute;
+    left: 300px;
+    top: 75px;
+}
+
+.botones h5{
+    color: rgb(255, 252, 58);
+}
+
+
+
+.logosnav{
+    position: relative;
+    top:-2px;
+}
