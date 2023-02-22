@@ -108,3 +108,16 @@ h2{
     position:absolute;
     left:650px;
 }
+
+/*Stats*/
+
+.container-icono4{
+    position: absolute;
+    left:575px;
+    top: 70px;  
+}
+
+.table{
+    position:relative;
+    top:50px;
+}
