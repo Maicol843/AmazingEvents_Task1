@@ -1,3 +1,4 @@
+/*index.html*/
 main{
     min-height: 90vh;
 }
@@ -7,7 +8,17 @@ main{
 }
 
 footer{
-    min-height: 5vh;
+    min-height: 9vh;
+}
+
+footer p{
+    position: absolute;
+    right: 3%;
+}
+
+.iconos{
+    position: absolute;
+    left:3%;
 }
 
 .dropdown-item{
@@ -16,7 +27,7 @@ footer{
 
 #navbarSupportedContent{
     position: absolute;
-    left: 1050px;
+    left: 750px;
 }
 
 h2{
@@ -63,8 +74,6 @@ h2{
 .botones h5{
     color: rgb(255, 252, 58);
 }
-
-
 
 .logosnav{
     position: relative;
