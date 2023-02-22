@@ -8,7 +8,7 @@ main{
 }
 
 footer{
-    min-height: 9vh;
+    min-height: 10vh;
 }
 
 footer p{
@@ -85,5 +85,13 @@ h2{
 .container-icono1{
     position: absolute;
     left:485px;
+    top: 70px;  
+}
+
+/*Past Events*/
+
+.container-icono2{
+    position: absolute;
+    left:520px;
     top: 70px;  
 }
