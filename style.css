@@ -41,10 +41,10 @@ h2{
 }
 
 .container-icono{
-    color: rgb(255, 252, 58);
+    color:rgb(255, 252, 58);
     position: absolute;
-    left:585px;
-    top: 78px;    
+    left:565px;
+    top: 65px;    
 }
 
 .card-body{
@@ -94,4 +94,17 @@ h2{
     position: absolute;
     left:520px;
     top: 70px;  
+}
+
+/*Contact*/
+
+.container-icono3{
+    position: absolute;
+    left:560px;
+    top: 70px;  
+}
+
+.boton{
+    position:absolute;
+    left:650px;
 }
