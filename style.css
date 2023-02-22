@@ -79,3 +79,11 @@ h2{
     position: relative;
     top:-2px;
 }
+
+/*Upcoming Events*/
+
+.container-icono1{
+    position: absolute;
+    left:485px;
+    top: 70px;  
+}
