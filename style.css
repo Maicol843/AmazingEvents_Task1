@@ -3,7 +3,7 @@ main{
     min-height: 90vh;
 }
 
-#contenedor-cards{
+#contenedor-cards-1, #contenedor-cards-2,#contenedor-cards-3,#contenedor-cards-4,#contenedor-cards-5,#contenedor-cards-6{
     min-height: 50vh;
 }
 
